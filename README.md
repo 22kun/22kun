@@ -6,6 +6,6 @@
    </div>
 <div>
  <a href="https://www.linkedin.com/in/arturdmaria/">
-   <img height="70em" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2955093-2464993.png">
+   <img height="65em" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2955093-2464993.png">
         </div>
     
