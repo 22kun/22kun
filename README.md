@@ -1,4 +1,4 @@
-## Olá! Sou Artur. Estudante de programação (Atualmente JAVA)
+## Olá! Sou Artur. Estudante de programação (Atualmente Flutter)
 <div align="left">
   <a href="https://github.com/22kun">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=22kun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
