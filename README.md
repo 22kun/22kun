@@ -1,4 +1,7 @@
-## Olá! Sou Artur. Estudante de programação (Atualmente Flutter)
+## Olá! Sou Artur
+## • Estudando <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png">lutter | <img width="5%" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"> Dart 
+
+
 <div align="left">
   <a href="https://github.com/22kun">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=22kun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
