@@ -1,5 +1,5 @@
 ## Olá! Sou Artur
-## • Estudando <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png">lutter | <img width="5%" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"> Dart 
+## • Estudando <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png">lutter | <img width="5%" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"> Dart; $~~~$ • Prototipando com <img width=4% src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">igma
 
 
 <div align="left">
