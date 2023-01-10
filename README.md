@@ -1,6 +1,4 @@
-## Olá! Sou Artur
-## • Estudando <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png">lutter | <img width="5%" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"> Dart; $~~~$ • Prototipando com <img width=4% src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">igma
-
+## Hello, World!
 
 <div align="left">
   <a href="https://github.com/22kun">
@@ -14,3 +12,21 @@
   <img width="25%" src="https://static.fandomspot.com/images/05/6906/10-edward-wong-cowboy-bebop-anime.jpg">
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuuuuuuuuuur&layout=compact&langs_count=7&theme=dark">
 </div>  
+
+<hr>
+
+### Languages and Tools
+
+  <div align="left"> 
+   <img height="50px" src="https://user-images.githubusercontent.com/97131923/211674443-af147434-961f-4c3b-aaf2-f480fc4a6787.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-768.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://user-images.githubusercontent.com/97131923/211676188-c59f41e2-3136-412a-be90-7e2d3839ae6a.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  </div>
