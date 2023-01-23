@@ -20,13 +20,13 @@
   <div align="left"> 
    <img height="50px" src="https://user-images.githubusercontent.com/97131923/211674443-af147434-961f-4c3b-aaf2-f480fc4a6787.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://user-images.githubusercontent.com/97131923/211676188-c59f41e2-3136-412a-be90-7e2d3839ae6a.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-768.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50px" src="https://user-images.githubusercontent.com/97131923/211676188-c59f41e2-3136-412a-be90-7e2d3839ae6a.png"> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="50px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> &nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-
   </div>
